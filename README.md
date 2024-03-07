@@ -1,3 +1,5 @@
+Shallow copy of https://github.com/opencv/opencv_contrib/releases/tag/4.8.1.
+
 ## Repository for OpenCV's extra modules
 
 This repository is intended for the development of so-called "extra" modules,
