@@ -1,4 +1,4 @@
-Shallow copy of https://github.com/opencv/opencv_contrib/releases/tag/4.8.1.
+Shallow copy of https://github.com/opencv/opencv_contrib/releases/tag/4.9.0
 
 ## Repository for OpenCV's extra modules
 
